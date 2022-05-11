@@ -1,7 +1,9 @@
+
 {
-    "html.format.contentUnformatted": "",
-"editor.codeActionOnSave": {
-"source.fixAll.eslint": true,
-},
-"eslint.validate": ["typescript"]
+    "eslint.format.enable": true,
+    "eslint.runtime": "",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"]
 }
