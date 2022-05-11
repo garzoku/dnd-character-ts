@@ -17,5 +17,8 @@ module.exports = {
   rules: {
     "no-shadow": "off",
     "no-use-before-define": "off",
+    'semi': ['error', 'always'],
+    'indent': ['error', 2],
+    'no-multi-spaces': ['error'],
   }
 }
